@@ -16,8 +16,9 @@ Example:
 print("Hello\nWorld")
 
 Output:
->>Hello
->>World
+
+Hello
+World
 
 NOTE:Start writing the code from first line without any gap otherwise running the code will yield you an "Indentation error".
 
@@ -28,6 +29,7 @@ input("Whats your name?")
 #the above line of code will first print "Whats your name?" in the terminal and then you will see a blinking cursor which indicates the user to enter the desired input .
 
 Output:
+
 Whats your name?Rohini
 
 Here Rohini is the user input.

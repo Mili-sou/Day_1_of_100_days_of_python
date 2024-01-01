@@ -6,6 +6,8 @@ NOTE:The sentence or word which we want to print/display  should be enclosed wit
 Example:
 print("Hello World")
 
+![Screenshot (2)](https://github.com/Mili-sou/Day_1_of_100_days_of_python/assets/155342372/3c8e4b14-6cc9-4d57-9dac-fdb05106d19a)
+
 This above line of code will print Hello World in the terminal .
 Here " " shows the beginning and ending of the string of characters.
 

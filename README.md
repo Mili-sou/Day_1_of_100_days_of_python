@@ -36,7 +36,8 @@ Example:
 print("Hello"+input("What is your name?"))
 
 output:
->>What is your name?Rohini
+What is your name?Rohini
+
 Hello Rohini
 
 Here first the input() function gets executed because if we see the logic that we need to print "Hello --The user input--". So first printed line is "What is your nane?"and then program asks for the user input .

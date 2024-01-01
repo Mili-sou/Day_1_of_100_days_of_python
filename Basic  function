@@ -1,1 +1,8 @@
 Firstly working with python we need to know how to print a line .
+Well, print() function helps us to print something.
+NOTE:The sentence or word whuch we need to write inside the print function should be enclosed within" ".
+
+Example:
+print("Hello World")
+
+This above line of code will print Hello World in the terminal  

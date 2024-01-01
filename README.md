@@ -17,7 +17,7 @@ print("Hello\nWorld")
 
 Output:
 >>Hello
-World
+>>World
 
 NOTE:Start writing the code from first line without any gap otherwise running the code will yield you an "Indentation error".
 
@@ -44,5 +44,6 @@ Here first the input() function gets executed because if we see the logic that w
 After taking the user input we get:
 print("Hello Rohini")
 and then the line gets printed..
->>Hello Rohini
+Hello Rohini
+
 Thats all required to start with your 1st python program!

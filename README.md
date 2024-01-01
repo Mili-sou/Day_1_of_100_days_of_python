@@ -1,3 +1,5 @@
+#Remeber: Python file is always saved using a .py extension.
+
 PRINT FUNCTION:
 Firstly working with python we need to know how to print a line .
 Well, print() function helps us to print something.

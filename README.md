@@ -20,9 +20,7 @@ Example:
 print("Hello\nWorld")
 
 Output:
-
-Hello
-World
+![Screenshot (3)](https://github.com/Mili-sou/Day_1_of_100_days_of_python/assets/155342372/bec00772-70eb-4783-a20b-211b76f7bf0e)
 
 NOTE:Start writing the code from first line without any gap otherwise running the code will yield you an "Indentation error".
 
@@ -33,23 +31,32 @@ input("Whats your name?")
 #the above line of code will first print "Whats your name?" in the terminal and then you will see a blinking cursor which indicates the user to enter the desired input .
 
 Output:
-
-Whats your name?Rohini
+![Screenshot (4)](https://github.com/Mili-sou/Day_1_of_100_days_of_python/assets/155342372/f7c3defa-ba13-4fa0-94d4-56649fb4bcc4)
 
 Here Rohini is the user input.
-Now, lets combine the print and input function.
+Now, lets combine the print and input function.But before doing that lets learn about the concatenation.COncatenation is a concept used with string.Basically concatenation means combining two strings together.
+"+" is used to concate to strings.
+Example:
+print("Hello"+"World")
+
+output:
+![Screenshot (5)](https://github.com/Mili-sou/Day_1_of_100_days_of_python/assets/155342372/736f94b3-a977-42a6-8427-46312d208e86)
+
+But what if we want to print a space between the two concatenated strings??Lets look at 3 ways by which it is possible:
+1.print("Hello "+"World")
+2.print("Hello"+" World")
+3.print("Hello"+" "+"World")
+First two ways include leaving a space with either after the "Hello" or either before the "World".And the third way is to separate the two strings by printing a space.
+NOw we can hop to our idea of working with both the print and input function.
 Example:
 print("Hello"+input("What is your name?"))
 
 output:
-What is your name?Rohini
-
-Hello Rohini
+![Screenshot (6)](https://github.com/Mili-sou/Day_1_of_100_days_of_python/assets/155342372/a9fb0cac-41d0-4b71-b7bc-c62503d514b9)
 
 Here first the input() function gets executed because if we see the logic that we need to print "Hello --The user input--". So first printed line is "What is your nane?"and then program asks for the user input .
 After taking the user input we get:
 print("Hello Rohini")
-and then the line gets printed..
-Hello Rohini
+and then the line gets printed i.e. Hello Rohini
 
 Thats all required to start with your 1st python program!

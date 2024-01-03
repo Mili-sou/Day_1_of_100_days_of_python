@@ -1,6 +1,6 @@
-#Remeber: Python file is always saved using a .py extension.
+# Remeber: Python file is always saved using a .py extension.
 
-PRINT FUNCTION:
+# PRINT FUNCTION:
 Firstly working with python we need to know how to print a line .
 Well, print() function helps us to print something.
 NOTE:The sentence or word which we want to print/display  should be enclosed within " " inside the print function.
@@ -24,7 +24,7 @@ Output:
 
 NOTE:Start writing the code from first line without any gap otherwise running the code will yield you an "Indentation error".
 
-INPUT FUNCTION:
+# INPUT FUNCTION:
 SUppose you want to create a program which takes input from the user!Yes that's interesting and we can do that easily with a help of input function.
 Example:
 input("Whats your name?")
@@ -59,4 +59,21 @@ After taking the user input we get:
 print("Hello Rohini")
 and then the line gets printed i.e. Hello Rohini
 
-Thats all required to start with your 1st python program!
+# VARIABLES
+In python,variables used to store the data for future references. The data stored in variables can be changed or manipulated.
+Ex:
+name=input("Enter your name:")
+
+Here name is the variable which the stores the user input.
+Example:
+
+![Screenshot (9)](https://github.com/Mili-sou/Day_1_of_100_days_of_python/assets/155342372/bcc44e59-0851-459d-b356-42158d9537f3)
+
+# Rules for naming variables:
+1.Variable names should not contain any space between them but can contain underscore.
+
+2.Variable names may contain digit but shouldn't start with one.
+
+3.Keyword cannot be used as a variable name.
+
+
